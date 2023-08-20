@@ -1,4 +1,4 @@
 import cv2
 import numpy as np
 
-ix, iy, k = 200, 20
+ix, iy, k = 200, 200, 
