@@ -4,4 +4,4 @@ import numpy as np
 ix, iy, k = 200, 200, -1
 def mouse(event, x, y, flags, param):
     global ix, iy, k
-    if event == cv2.EVENT_LBUTTO
+    if event == cv2.EVENT_LBUTTONDO
