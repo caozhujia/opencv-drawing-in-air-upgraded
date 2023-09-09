@@ -7,4 +7,4 @@ def mouse(event, x, y, flags, param):
     if event == cv2.EVENT_LBUTTONDOWN:
         ix, iy = x, y
         k = 1
-   
+     
