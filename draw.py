@@ -8,3 +8,5 @@ def mouse(event, x, y, flags, param):
         ix, iy = x, y
         k = 1
         
+
+cv2
