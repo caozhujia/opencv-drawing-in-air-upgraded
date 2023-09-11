@@ -9,4 +9,4 @@ def mouse(event, x, y, flags, param):
         k = 1
         
 
-cv2.namedWi
+cv2.namedWind
