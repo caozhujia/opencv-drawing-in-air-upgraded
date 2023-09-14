@@ -9,4 +9,5 @@ def mouse(event, x, y, flags, param):
         k = 1
         
 
-cv2.namedWindow("draw
+cv2.namedWindow("draw")
+cv
