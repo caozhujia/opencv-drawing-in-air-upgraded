@@ -10,4 +10,4 @@ def mouse(event, x, y, flags, param):
         
 
 cv2.namedWindow("draw")
-cv2.setMouseCallback("draw"
+cv2.setMouseCallback("draw", m
