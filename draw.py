@@ -12,4 +12,4 @@ def mouse(event, x, y, flags, param):
 cv2.namedWindow("draw")
 cv2.setMouseCallback("draw", mouse)
 
-cap = cv
+cap = cv2.V
