@@ -13,3 +13,4 @@ cv2.namedWindow("draw")
 cv2.setMouseCallback("draw", mouse)
 
 cap = cv2.VideoCapture(0)
+
