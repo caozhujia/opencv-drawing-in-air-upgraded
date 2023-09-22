@@ -15,3 +15,4 @@ cv2.setMouseCallback("draw", mouse)
 cap = cv2.VideoCapture(0)
 
 
+whi
