@@ -16,4 +16,4 @@ cap = cv2.VideoCapture(0)
 
 
 while True:
-    _, frm = c
+    _, frm = ca
