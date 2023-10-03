@@ -18,4 +18,4 @@ cap = cv2.VideoCapture(0)
 while True:
     _, frm = cap.read()
 
-    frm = cv2.f
+    frm = cv2.flip(
