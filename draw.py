@@ -20,4 +20,4 @@ while True:
 
     frm = cv2.flip(frm, 1)
 
-    cv2.
+    cv2.imsh
