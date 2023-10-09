@@ -21,3 +21,5 @@ while True:
     frm = cv2.flip(frm, 1)
 
     cv2.imshow("draw", frm)
+
+ 
