@@ -22,4 +22,4 @@ while True:
 
     cv2.imshow("draw", frm)
 
-    if cv2.w
+    if cv2.wait
