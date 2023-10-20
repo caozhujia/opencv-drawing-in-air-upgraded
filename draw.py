@@ -23,4 +23,4 @@ while True:
     cv2.imshow("draw", frm)
 
     if cv2.waitKey(1) == 27 or k == 1:
-        old_gray = cv2.cvtColor(frm, cv2.COLOR_BGR2G
+        old_gray = cv2.cvtColor(frm, cv2.COLOR_BGR2GRA
