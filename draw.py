@@ -27,4 +27,4 @@ while True:
         mask = np.zeros_like(frm)
         break
 
-cv2.destroyAllW
+cv2.destroyAllWin
