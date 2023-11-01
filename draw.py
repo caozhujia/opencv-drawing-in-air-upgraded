@@ -29,4 +29,4 @@ while True:
 
 cv2.destroyAllWindows()
 
-old_pts = np.array([[ix, iy]], dtype=np.flo
+old_pts = np.array([[ix, iy]], dtype=np.float
