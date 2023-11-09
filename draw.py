@@ -33,4 +33,4 @@ old_pts = np.array([[ix, iy]], dtype=np.float32).reshape(-1,1,2)
 
 color = (0,255,0)
 c=0
-while
+while Tru
