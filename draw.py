@@ -35,4 +35,4 @@ color = (0,255,0)
 c=0
 while True:
 
-    _, new_frm = cap.
+    _, new_frm = cap.rea
