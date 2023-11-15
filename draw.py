@@ -37,4 +37,4 @@ while True:
 
     _, new_frm = cap.read()
 
- 
+    ne
