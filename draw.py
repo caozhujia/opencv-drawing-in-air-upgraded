@@ -36,3 +36,5 @@ c=0
 while True:
 
     _, new_frm = cap.read()
+
+ 
