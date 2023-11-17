@@ -37,4 +37,4 @@ while True:
 
     _, new_frm = cap.read()
 
-    new_frm = cv2
+    new_frm = cv2.f
