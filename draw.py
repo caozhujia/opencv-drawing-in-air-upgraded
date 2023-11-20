@@ -38,3 +38,5 @@ while True:
     _, new_frm = cap.read()
 
     new_frm = cv2.flip(new_frm, 1)
+
+ 
