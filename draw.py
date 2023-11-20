@@ -39,4 +39,4 @@ while True:
 
     new_frm = cv2.flip(new_frm, 1)
 
-    ne
+    new_
