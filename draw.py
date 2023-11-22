@@ -39,4 +39,4 @@ while True:
 
     new_frm = cv2.flip(new_frm, 1)
 
-    new_gray = cv2.cvtC
+    new_gray = cv2.cvtCol
