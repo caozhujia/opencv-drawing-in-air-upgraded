@@ -41,3 +41,4 @@ while True:
 
     new_gray = cv2.cvtColor(new_frm ,cv2.COLOR_BGR2GRAY)
 
+   
