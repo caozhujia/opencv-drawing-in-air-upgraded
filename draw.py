@@ -45,4 +45,4 @@ while True:
                          new_gray, 
                          old_pts, 
                          None, maxLevel=1,
-                         criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA
+                         criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COU
