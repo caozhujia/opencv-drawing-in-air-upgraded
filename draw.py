@@ -50,4 +50,4 @@ while True:
 
     key = cv2.waitKey(1)
 
-    if key == 
+    if key == or
