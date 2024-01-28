@@ -51,4 +51,4 @@ while True:
     key = cv2.waitKey(1)
 
     if key == ord('e'):
-        mask = np.zeros_like(ne
+        mask = np.zeros_like(new_f
