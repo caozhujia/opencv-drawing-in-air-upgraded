@@ -53,4 +53,4 @@ while True:
     if key == ord('e'):
         mask = np.zeros_like(new_frm)
 
-    elif key =
+    elif key == o
