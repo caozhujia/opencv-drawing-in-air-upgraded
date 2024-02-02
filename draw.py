@@ -54,4 +54,5 @@ while True:
         mask = np.zeros_like(new_frm)
 
     elif key == ord('c'):
-        color = (0,0,0
+        color = (0,0,0)
+ 
