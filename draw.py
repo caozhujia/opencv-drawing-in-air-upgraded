@@ -55,4 +55,4 @@ while True:
 
     elif key == ord('c'):
         color = (0,0,0)
-        lst = list(col
+        lst = list(color
