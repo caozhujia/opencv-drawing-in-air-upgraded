@@ -57,4 +57,5 @@ while True:
         color = (0,0,0)
         lst = list(color)
         c+=1
-        lst[c%3] = 25
+        lst[c%3] = 255
+  
