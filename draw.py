@@ -58,4 +58,4 @@ while True:
         lst = list(color)
         c+=1
         lst[c%3] = 255
-      
+       
