@@ -59,3 +59,5 @@ while True:
         c+=1
         lst[c%3] = 255
         color = tuple(lst)
+
+ 
