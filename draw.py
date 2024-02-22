@@ -61,3 +61,4 @@ while True:
         color = tuple(lst)
 
     elif key == ord('g'):
+ 
