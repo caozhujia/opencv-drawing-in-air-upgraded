@@ -63,4 +63,4 @@ while True:
     elif key == ord('g'):
         pass
     else:
-        for i, j i
+        for i, j in 
