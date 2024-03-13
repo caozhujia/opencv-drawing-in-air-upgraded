@@ -67,4 +67,4 @@ while True:
             x,y = j.ravel()
             a, b = i.ravel()
 
-            cv2.line(ma
+            cv2.line(mask, 
