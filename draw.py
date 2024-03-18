@@ -68,3 +68,5 @@ while True:
             a, b = i.ravel()
 
             cv2.line(mask, (int(a),int(b)), (int(x), int(y)), color, 15)
+
+  
