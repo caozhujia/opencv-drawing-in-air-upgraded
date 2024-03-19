@@ -69,4 +69,4 @@ while True:
 
             cv2.line(mask, (int(a),int(b)), (int(x), int(y)), color, 15)
 
-  
+    
