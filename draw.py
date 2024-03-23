@@ -72,4 +72,4 @@ while True:
     cv2.circle(new_frm, (int(x),int(y)), 3, (255,255,0), 2)
 
 
- 
+    
