@@ -73,4 +73,4 @@ while True:
 
 
     
-    new
+    new_fr
