@@ -73,4 +73,4 @@ while True:
 
 
     
-    new_frm = cv2.addWe
+    new_frm = cv2.addWei
