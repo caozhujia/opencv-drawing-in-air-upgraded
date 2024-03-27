@@ -73,4 +73,4 @@ while True:
 
 
     
-    new_frm = cv2.addWeig
+    new_frm = cv2.addWeighte
