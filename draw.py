@@ -73,4 +73,4 @@ while True:
 
 
     
-    new_frm = cv2.addWeighted(new_fr
+    new_frm = cv2.addWeighted(new_frm
