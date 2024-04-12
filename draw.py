@@ -76,4 +76,5 @@ while True:
     new_frm = cv2.addWeighted(new_frm ,0.8, mask, 0.2, 0.1)
 
     cv2.imshow("", new_frm)
-    cv2.imshow("drawing", ma
+    cv2.imshow("drawing", mask)
+
