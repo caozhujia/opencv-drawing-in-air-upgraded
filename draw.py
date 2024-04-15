@@ -78,4 +78,4 @@ while True:
     cv2.imshow("", new_frm)
     cv2.imshow("drawing", mask)
 
-    old_gray = n
+    old_gray = new_g
