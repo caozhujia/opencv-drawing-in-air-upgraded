@@ -79,3 +79,5 @@ while True:
     cv2.imshow("drawing", mask)
 
     old_gray = new_gray.copy()
+
+  
