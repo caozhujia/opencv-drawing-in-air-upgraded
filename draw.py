@@ -80,4 +80,4 @@ while True:
 
     old_gray = new_gray.copy()
 
-    old_pts = new_pts.re
+    old_pts = new_pts.resh
