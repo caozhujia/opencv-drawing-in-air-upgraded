@@ -86,4 +86,4 @@ while True:
         break
 
 
-cv2.des
+cv2.destro
