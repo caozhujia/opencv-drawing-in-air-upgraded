@@ -86,4 +86,4 @@ while True:
         break
 
 
-cv2.destroyAllWind
+cv2.destroyAllWindows(
