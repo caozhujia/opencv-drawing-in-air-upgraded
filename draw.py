@@ -87,4 +87,4 @@ while True:
 
 
 cv2.destroyAllWindows()
-cap
+cap.re
