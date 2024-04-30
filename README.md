@@ -6,3 +6,4 @@ Here are the basic controls:
 - `c` to change colors
 - `e` to erase
 - `g` to create a gap
+- `esc` to exit
