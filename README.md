@@ -4,3 +4,5 @@ This is an upgrade of a previous OpenCV project that allows you to draw in the a
 
 Here are the basic controls:
 - `c` to change colors
+- `e` to erase
+- `g` to create a gap
