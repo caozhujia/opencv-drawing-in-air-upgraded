@@ -7,3 +7,7 @@ Here are the basic controls:
 - `e` to erase
 - `g` to create a gap
 - `esc` to exit
+
+Thank you for your support! 
+
+ *Note: This is a project handled by caozhujia*
